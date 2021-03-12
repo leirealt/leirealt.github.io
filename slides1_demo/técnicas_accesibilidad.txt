@@ -1,0 +1,11 @@
+He intentado seguir los principios básicos de accesibilidad POUR:
+
+- He intentado que las diapositivas no estén muy saturadas de texto.
+- La mayoría de las transparencias tienen guiones para facilitar una lectura rápida.
+- Gracias a reveal.js la presentación tiene una buena navegabilidad y es fácil entender el sentido de la presentación.
+- Todas las diapositivas tienen un título que especifica de qué se habla en cada una. Esto sirve para ubicar al usuario en la sección en la que está.
+- Las diapositivas siguen una jerarquía en cuanto a temas y subtemas. Esto se ve en los títulos y subtítulos.
+- El contenido es legible y entendible: las frases son cortas y fáciles de leer y entender.
+- Se ilustran los ejemplos o pasos a seguir con imágenes en las que se señala lo que referenciamos.
+- Todas las imágenes tienen texto alternativo.
+- El único enlace del final tiene un nombre explicativo, es decir, no se ha puesto la dirección http directamente en la diapositiva, sino que está vinculada a través del texto.
